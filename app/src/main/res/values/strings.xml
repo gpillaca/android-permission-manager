@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">android permission manager</string>
+    <string name="CANCEL">Cancelar</string>
+    <string name="PERMISSION_REQUIRED_GO_TO_SETTINGS">Ir a los ajustes</string>
+    <string name="PERMISSION_REQUIRED_TITLE">Permisos requeridos</string>
+    <string name="PERMISSION_REQUIRED_MESSAGE">Necesitamos que habilites los permisos para poder asignarte pedidos</string>
+
 </resources>
